@@ -3,7 +3,7 @@ int main()
 {
     double number;
 
-    printf("Enter a number: ");
+    printf("");
     scanf("%lf", &number);
 
    
